@@ -3,3 +3,5 @@ a331bff3affaf7d2b8e3ec5eed1c7475f3ea1ad67c0c804d9e9374023859a4da  sweet_potato_m
 72d1919fb9ae2d8d3792db714ab1d196e8acf1b43eb64096492ac033fd4b6302  sweet_potato_mod-1.4.3+1.18.2.jar
 fa04639fd0320ce017c472824f8464ecf99adef5f41dd41b2c8c55cb747cb12c  RegionalFucks-0.1.0.zip
 cbee6b0d71b4c8c5854a3f73d5191da9e6959a61d30b03c2d30305ce10fd0da0  RegionalFucksChina-0.1.1.zip
+5aa3e4eba48182986be55c5eb34bd058ec36a064605fa928ad9c86e5e016cd76  sweet_potato_mod-1.4.4+1.18.2-sources.jar
+49b1cf560286b2193f94cc25ced515260178c5e336b3c8b64cfbf0e15b0c81fb  sweet_potato_mod-1.4.4+1.18.2.jar
