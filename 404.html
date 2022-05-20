@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel='stylesheet' href="/static/css/main.css" />
+        <meta charset="utf-8" />
+        <title id='titleTag'>404 Not Found</title>
+    </head><body>
+    <h1 class='title' id='titleH1'>404 Not Found</h1>
+    <div class='common' id='paradox'>  Paradox: When you enter <a href='/resources/404.html'>https://featurehouse.github.io/resources/404.html </a>, please think: is your browser really connecting with 404 page, or your browser cannot find 404.html and show you this 404 page?</div>
+    <!--<center><a href='/index.html' class='common' id='backToHomepage'>Back to homepage</a></center>-->
+    
+    <script type='text/javascript'>
+            var jsSrc =(navigator.language || navigator.browserLanguage).toLowerCase();
+            if (jsSrc.indexOf('zh') > -1) {
+                document.getElementById('titleTag').innerHTML = '404 找不到资源';
+                document.getElementById('titleH1').innerHTML = '404 找不到资源';
+                document.getElementById('paradox').innerHTML =
+                    '  悖论：当你进入<a href="/resources/404.html">https://featurehouse.github.io/resources/404.html </a>，请你思考一个问题：是你的浏览器真的在访问404页面，还是它找不到404.html才给你显示404页面呢？';
+                //document.getElementById('backToHomepage').innerHTML = '回到首页';
+            }
+        </script>
+    </body>
+</html>
