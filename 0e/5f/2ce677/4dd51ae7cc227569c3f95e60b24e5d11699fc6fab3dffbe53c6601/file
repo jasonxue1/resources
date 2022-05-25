@@ -1,0 +1,115 @@
+Change Log: Version£º1.2.0
+
+1.26
+Update Timeline.md.
+Issue refences.
+Repository README update.
+Repository discussion genral.
+
+1.28
+Added Pigeonia Featurehouse Organization on WeCom.
+
+1.30
+Update starter.
+Draw Magic Cube's GUI and update Grinder's GUI.
+
+1.31
+Finish sounds.
+Give wuliXiaozhou files.
+
+2.10
+1.2.0_03+3
+All advancements and loot tables are now hardcoded
+SPMMain.
+PEEL changed settings to ItemSettings.
+MISC
+SPMMain.ALL_SWEET_POTATOES tag on used.
+
+Update Pigeonia Linkage Standard to v1.0.1 with strict: true.
+
+2.19
+1.2.0_05+11
+Change "\u" to "\\u".
+
+2.22
+1.2.0_05+16
+Server Properties
+StatusEffectInstances (Visible and edible EnchantedSweetPotatoItem)
+Make NbtUtils simpler.
+
+Fix Enchanted Sweet Potato: NullPointerException when unknown effect type.
+
+2.24
+1.2.0_rc-1
+Move StatusEffectInstances
+.
+TitleScreenMixin @Environment.
+Add resource package and related things
+.
+Add stat interact_with_magic_cube
+Update magic_cube.png
+.
+Add support for instant effects.
+
+2.25
+Re-draw Magic Cubes GUI.
+1.2.0_rc-2
+MagicCubeBlock.incrementWhileOnUse invocation.
+
+MagicCubeBlock.ACTIVATION_PREDICATE
+GrindingSoundInstance.<init> edit format & rename to KeepPlayingSoundInstance
+.
+Always edible Enchanted Sweet Potatoes.
+
+EnchantedSweetPotatoItem.finishUsing super execution delays
+.
+Name of subtitle: magic_cube_ambient without usages
+.
+Del @MagicCubeBlockEntity.FireBelow
+Magic Cube 20tick-state changed to 10tick-state
+
+.
+New sounds are used
+.
+Update fabric version and yarn mappings
+
+2.26
+1.2.0_rc-4
+Move StatusEffectInstances.
+
+TitleScreenMixin @Environment
+.
+Add resource package and related things
+.
+Add stat interact_with_magic_cube.
+
+Update magic_cube.png.
+
+Add support for instant effects
+
+
+MagicCubeBlock.incrementWhileOnUse invocation.
+
+MagicCubeBlock.ACTIVATION_PREDICATE.
+
+GrindingSoundInstance.<init> edit format & rename to KeepPlayingSoundInstance.
+
+Always edible Enchanted Sweet Potatoes.
+
+EnchantedSweetPotatoItem.finishUsing super execution delays.
+
+Name of subtitle: magic_cube_ambient without usages
+.
+Del @MagicCubeBlockEntity.FireBelow
+.
+Magic Cube 20tick-state changed to 10tick-state.
+New sounds are used
+
+.
+level.dat inject version data.
+registry.containsId -> registry.getIds().contains: @Environment(EnvType.CLIENT)
+.
+1.16.5 requires Fabric API >0.30.0. 1.17 requires Fabric API >0.30.2
+
+1.2.0_rc-5
+1.16.5-1.17 only. Deleted deprecated mcfunctions
