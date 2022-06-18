@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:chest"
+    },
+    "result": "minecraft:chest",
+    "experience": 0,
+    "cookingtime": 200
+}

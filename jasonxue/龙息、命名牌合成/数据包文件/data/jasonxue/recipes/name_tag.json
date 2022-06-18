@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "KEE",
+    "RXE",
+    "XRK"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:paper"
+    },
+    "E": {
+      "item": "minecraft:string"
+    },
+    "K": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:name_tag"
+  }
+}
